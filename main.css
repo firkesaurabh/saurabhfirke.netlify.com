@@ -1,0 +1,26 @@
+.pp {
+border-radius: 50%;
+height: 200px;
+width: 200px;
+align-self: center;
+box-shadow: 2PX 5PX 5PX black;
+}
+.site-header {
+    font-family: cursive;
+    background-color:#005266;
+    height: 100vh;
+    color:rgb(212, 211, 211);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.body {
+    margin: 0PX;
+}
+body {
+    margin:0px;
+   
+}
